@@ -13,12 +13,12 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 ## Reflection Questions
 
 1. What is your initial thoughts about the python programming language?
-The Python programming language felt incredibly alien to me, as I am used to using Java-like syntax for all my code, which Python does not use. 
+The Python programming language felt incredibly alien to me, as I am used to using Java-like syntax for all my code, which Python does not use. I sometimes, on occasion, made simple syntax errors that completely threw me off when I tried to program using Python. 
 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
-I found that the math operators in Python and Java, the language I primarly use, are practically the same. However, when it comes to if statement and for loop syntax, Python does it completely different to Java.
+I found that the math operators in Python and Java, the language I primarly use, are practically the same. However, when it comes to if statement and for loop syntax, Python does it completely different to Java. 
 
 
 3. What are some things that you learned through this assignment?
-I learned a bit on how to use the Python syntax when coding in Python. 
+I learned a bit on how to use the Python syntax when coding in Python. I also learned Python coding convention and different tools within Python's documentaiton that streamlined my coding workflow. 
